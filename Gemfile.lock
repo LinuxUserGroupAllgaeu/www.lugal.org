@@ -13,6 +13,7 @@ GEM
     fast-stemmer (1.0.1)
     fssm (0.2.9)
     haml (3.1.7)
+    icalendar (1.5.0)
     jekyll (0.12.0)
       classifier (~> 1.3)
       directory_watcher (~> 1.1)
@@ -45,6 +46,7 @@ GEM
     stringex (1.4.0)
     syntax (1.0.0)
     tilt (1.3.7)
+    tzinfo (0.3.38)
     yajl-ruby (1.1.0)
 
 PLATFORMS
@@ -55,6 +57,7 @@ DEPENDENCIES
   compass (~> 0.12.2)
   directory_watcher (= 1.4.1)
   haml (~> 3.1.7)
+  icalendar
   jekyll (~> 0.12)
   liquid (~> 2.3.0)
   pygments.rb (~> 0.3.4)
@@ -66,3 +69,4 @@ DEPENDENCIES
   sass-globbing (~> 1.0.0)
   sinatra (~> 1.4.2)
   stringex (~> 1.4.0)
+  tzinfo (= 0.3.38)
