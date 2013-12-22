@@ -1,0 +1,25 @@
+--- 
+categories: 
+  - termin
+created: 2009-12-24 17:11:58 +01:00
+event: 
+  calendar: lugal
+  description: "Vortrag: Virtualisierte  Terminalserverlösungen - Referent: Christian Haas"
+  enddate: "09.01.2010"
+  endtime: "20:00"
+  lat: 47.98361
+  location: "Belle Epoque Obere Bachgasse 9, 87700 Memmingen"
+  lon: 10.18085
+  startdate: "09.01.2010"
+  starttime: "18:00"
+  summary: "LUGAL Januar 2010"
+  timezone: Europe/Berlin
+layout: post
+title: "9.1.2010"
+---
+
+{% render_event %}
+Belle Epoque 
+Obere Bachgasse 9
+87700 Memmingen
+

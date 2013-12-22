@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2009-04-13 20:40:42 +02:00
+event: 
+  calendar: lugal
+  description: "Das letze Treffen vor dem Lugcamp"
+  enddate: "09.05.2009"
+  endtime: "16:00"
+  lat: 47.9846
+  location: Memmingen
+  lon: 10.18214
+  startdate: "09.05.2009"
+  starttime: "14:00"
+  summary: "LUGAL Mai 2009"
+  timezone: Europe/Berlin
+layout: post
+title: "9.5.2009"
+---
+
+{% render_event %}
+
+

@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2010-06-01 23:33:20 +02:00
+event: 
+  calendar: lugal
+  description: n.A.
+  enddate: "12.06.2010"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "12.06.2010"
+  starttime: "18:00"
+  summary: "LUGAL Juni 2010"
+  timezone: Europe/Berlin
+layout: post
+title: "12.06.2010"
+---
+
+{% render_event %}
+
+

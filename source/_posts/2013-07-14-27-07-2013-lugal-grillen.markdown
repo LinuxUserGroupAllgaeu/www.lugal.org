@@ -1,0 +1,27 @@
+--- 
+categories: 
+  - termin
+created: 2013-07-14 01:01:25 +02:00
+event: 
+  calendar: lugal
+  description: "<em>Wir grillen einen Haas!</em>"
+  enddate: "27.07.2013"
+  endtime: "18:00"
+  lat: 47.75517
+  location: "Burgruine Wolkenberg"
+  lon: 10.41633
+  startdate: "27.07.2013"
+  starttime: "16:00"
+  summary: "LUGAL Juli 2013"
+  timezone: Europe/Berlin
+layout: post
+title: "27.07.2013 - Lugal Grillen"
+---
+
+{% render_event %}
+Wir treffen uns um 16:00h am Fenepark Kempten (A7 Ausfahrt Leubas, dann Richtung Kempten). Dort kaufen wir ein und fahren dann gemeinsam zur Burg.
+
+Im untenstehenden Bild findet ihr den Anfahrtsplan falls ihr nachkommt.
+
+<a href=http://www.lugal.org/sites/default/files/anfahrt-lugal-grillen-2012.png>Bild</a>
+

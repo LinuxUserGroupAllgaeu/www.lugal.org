@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2011-08-12 18:06:47 +02:00
+event: 
+  calendar: lugal
+  description: "Fleisch und Gemüse"
+  enddate: "14.08.2011"
+  endtime: "18:00"
+  lat: 48.0112
+  location: "Binos Palace, Sontheim"
+  lon: 10.3467
+  startdate: "14.08.2011"
+  starttime: "16:00"
+  summary: "LUGAL August 2011"
+  timezone: Europe/Berlin
+layout: post
+title: "14.08.2011 Lugal Grillen "
+---
+
+{% render_event %}
+
+

@@ -1,0 +1,55 @@
+.event {
+  @include shadow-box
+}
+
+.calendar {
+  float: left;
+  background: image-url("calendar.png") no-repeat;
+  width: 128px;
+  height: 128px;
+}
+
+.calendar-weekday {
+  margin-top: 5px;
+  text-align: center;
+  font-size: 15px;
+  color: #eeeeee;
+  font-weight: bold;
+}
+
+.calendar-day {
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.eventinfo {
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.eventinfo ul {
+  list-style-type: none;
+}
+
+.calendar-side {
+  h1 {
+       -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+         -o-box-shadow: none !important;
+            box-shadow: none !important;
+    border-bottom: 0px none !important;
+  }
+  a {
+    text-decoration: none;
+    white-space: normal !important;
+    line-height: 32px;
+
+    img {
+      float: left;
+      margin-right: 0.5em;
+      border: 0 none;
+    }
+  }
+}

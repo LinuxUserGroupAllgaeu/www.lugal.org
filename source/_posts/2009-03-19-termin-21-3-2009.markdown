@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2009-03-19 18:03:58 +01:00
+event: 
+  calendar: lugal
+  description: "CLT 2009"
+  enddate: "21.03.2009"
+  endtime: "16:00"
+  lat: 47.9846
+  location: Memmingen
+  lon: 10.18214
+  startdate: "21.03.2009"
+  starttime: "14:00"
+  summary: "LUGAL Maerz 2009"
+  timezone: Europe/Berlin
+layout: post
+title: "Termin 21.3.2009"
+---
+
+{% render_event %}
+
+

@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2013-09-11 21:20:07 +02:00
+event: 
+  calendar: lugal
+  description: "-"
+  enddate: "14.09.2013"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "14.09.2013"
+  starttime: "18:00"
+  summary: "LUGAL September 2013"
+  timezone: Europe/Berlin
+layout: post
+title: "14.09.2013"
+---
+
+{% render_event %}
+
+

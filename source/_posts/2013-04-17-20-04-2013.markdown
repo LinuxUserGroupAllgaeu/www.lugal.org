@@ -1,0 +1,27 @@
+--- 
+categories: 
+  - termin
+created: 2013-04-17 00:05:07 +02:00
+event: 
+  calendar: lugal
+  description: "Vortrag von Maximilian: Linux-Gerätetreiber"
+  enddate: "20.04.2013"
+  endtime: "20:00"
+  lat: 47.718088
+  location: "Hochschule Kempten (danach: Times, Kempten)"
+  lon: 10.315068
+  startdate: "20.04.2013"
+  starttime: "18:00"
+  summary: "LUGAL April 2013"
+  timezone: Europe/Berlin
+layout: post
+title: "20.04.2013"
+---
+
+{% render_event %}
+
+
+
+Nachlese
+--------
+iSteve: http://www.funnyordie.com/videos/d2e0f617e3/isteve

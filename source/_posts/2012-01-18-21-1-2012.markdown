@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2012-01-18 20:39:47 +01:00
+event: 
+  calendar: lugal
+  description: "Die Coffee Fellows treffen sich."
+  enddate: "21.01.2012"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "21.01.2012"
+  starttime: "18:00"
+  summary: "LUGAL Januar 2012"
+  timezone: Europe/Berlin
+layout: post
+title: "21.1.2012"
+---
+
+{% render_event %}
+
+

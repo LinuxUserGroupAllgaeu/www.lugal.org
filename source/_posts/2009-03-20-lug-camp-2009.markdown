@@ -1,0 +1,10 @@
+--- 
+created: 2009-03-20 13:48:33 +01:00
+layout: post
+title: "LUG Camp 2009"
+---
+Traditionell wird das LUG Camp 2009 diesmal nach Flensburg (2008) und Interlaken (2007) wieder im Allgäu stattfinden.
+Ausgerichtet und organisiert wird es von der LUGAL und von der LUGA (LUG Augsburg).
+Wie immer gibt es ein reichhaltiges Rahmenprogramm mit Vorträgen, Wettbewerben und Ausflügen.
+
+<a href="http://www.lugcamp.org/">Alle Infos und anmelden könnt ihr euch hier</a>

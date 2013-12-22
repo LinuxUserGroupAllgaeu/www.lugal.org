@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2012-08-29 00:20:34 +02:00
+event: 
+  calendar: lugal
+  description: "daskeyboard Hands-on (am besten Laptop o.Ä. mitbringen)"
+  enddate: "01.09.2012"
+  endtime: "19:00"
+  lat: 47.71889
+  location: "Times, Kempten"
+  lon: 10.3143
+  startdate: "01.09.2012"
+  starttime: "17:00"
+  summary: "LUGAL September 2012"
+  timezone: Europe/Berlin
+layout: post
+title: "1.9.2012"
+---
+
+{% render_event %}
+
+

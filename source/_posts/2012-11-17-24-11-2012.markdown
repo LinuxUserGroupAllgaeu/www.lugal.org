@@ -1,0 +1,53 @@
+--- 
+categories: 
+  - termin
+created: 2012-11-17 23:16:07 +01:00
+event: 
+  calendar: lugal
+  description: "Planung Weihnachtsessen 2012"
+  enddate: "24.11.2012"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "24.11.2012"
+  starttime: "18:00"
+  summary: "LUGAL November 2012"
+  timezone: Europe/Berlin
+layout: post
+title: "24.11.2012"
+---
+
+{% render_event %}
+
+
+
+Nachlese
+--------
+http://ardrone2.parrot.com/
+
+http://www.heise.de/newsticker/meldung/Qualcomm-ueberholt-Intel-beim-Boersenwert-1747843.html
+
+http://www.tweakpc.de/news/26056/intel-haswell-koennte-letzter-auswechselbarer-prozessor-werden/
+
+http://en.wikipedia.org/wiki/Slot_1
+
+http://en.wikipedia.org/wiki/Slot_A
+
+http://en.wikipedia.org/wiki/Audio/modem_riser
+
+http://en.wikipedia.org/wiki/LEON
+
+http://en.wikipedia.org/wiki/RDRAM
+http://en.wikipedia.org/wiki/XDR_RAM
+http://en.wikipedia.org/wiki/Socket_G3_Memory_Extender
+http://en.wikipedia.org/wiki/XIO
+http://en.wikipedia.org/wiki/FC-AL
+
+History of LGA...
+http://www.cpu-collection.de/?tn=0&l0=cl&l1=80186/188&l2=AMD#C80186-3
+
+http://www.golem.de/news/cpu-entwickler-mips-wird-verkauft-die-patente-gehen-an-die-arm-holding-1211-95561.html
+
+4Chan @ Valve:
+http://www.youtube.com/watch?v=_Fl4s9T79n0

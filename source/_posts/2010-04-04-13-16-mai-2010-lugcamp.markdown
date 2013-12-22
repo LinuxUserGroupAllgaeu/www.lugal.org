@@ -1,0 +1,11 @@
+--- 
+categories: 
+  - termin
+created: 2010-04-04 00:40:43 +02:00
+layout: post
+title: "13./16. Mai 2010 - Lugcamp"
+---
+
+{% render_event %}
+<a href="http://www.lug-camp-2010.de/">Infos</a>
+

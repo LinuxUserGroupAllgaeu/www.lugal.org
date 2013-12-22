@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2011-01-05 18:03:54 +01:00
+event: 
+  calendar: lugal
+  description: "."
+  enddate: "08.01.2011"
+  endtime: "20:00"
+  lat: 47.984
+  location: "Memmingen, Valentino"
+  lon: 10.1824
+  startdate: "08.01.2011"
+  starttime: "18:00"
+  summary: "LUGAL Januar 2011"
+  timezone: Europe/Berlin
+layout: post
+title: "8.1.2011"
+---
+
+{% render_event %}
+
+

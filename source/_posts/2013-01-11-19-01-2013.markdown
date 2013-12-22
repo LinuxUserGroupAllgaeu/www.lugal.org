@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2013-01-11 19:33:53 +01:00
+event: 
+  calendar: lugal
+  description: "Bulletin Board Software, PPTP, etc."
+  enddate: "19.01.2013"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "19.01.2013"
+  starttime: "18:00"
+  summary: "LUGAL Januar 2013"
+  timezone: Europe/Berlin
+layout: post
+title: "19.01.2013"
+---
+
+{% render_event %}
+
+

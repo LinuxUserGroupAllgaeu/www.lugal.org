@@ -1,0 +1,34 @@
+--- 
+categories: 
+  - termin
+created: 2012-10-23 00:18:09 +02:00
+event: 
+  calendar: lugal
+  description: "Die LUGAL feiert Windows 8 Release Party !!!"
+  enddate: "27.10.2012"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "27.10.2012"
+  starttime: "18:00"
+  summary: "LUGAL Oktober 2012"
+  timezone: Europe/Berlin
+layout: post
+title: "27.10.2012"
+---
+
+{% render_event %}
+
+
+
+Nachlese
+--------
+WIFI-Passwort CAFECOLLEGE: 1cafecollege2
+
+https://www.microsoft.com/en-us/news/presskits/windows/videogallery2_16.aspx
+http://vimeo.com/24782590
+http://www.youtube.com/watch?v=5xK2OXztIt4
+http://blog.fefe.de/?ts=aeab3d75
+http://www.youtube.com/watch?v=6VjreMm5FBc
+http://youtu.be/Omwoamk-lEY

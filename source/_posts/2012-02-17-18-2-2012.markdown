@@ -1,0 +1,27 @@
+--- 
+categories: 
+  - termin
+created: 2012-02-17 08:41:59 +01:00
+event: 
+  calendar: lugal
+  description: "-"
+  enddate: "18.02.2012"
+  endtime: "20:00"
+  lat: 47.9845
+  location: "Restaurant Waldhorn, Memmingen"
+  lon: 10.18513
+  startdate: "18.02.2012"
+  starttime: "18:00"
+  summary: "LUGAL Februar 2012"
+  timezone: Europe/Berlin
+layout: post
+title: "18.2.2012"
+---
+
+{% render_event %}
+
+
+
+Nachlese
+--------
+<strong>Christian Haas</strong> hat am Treffen teilgenommen.

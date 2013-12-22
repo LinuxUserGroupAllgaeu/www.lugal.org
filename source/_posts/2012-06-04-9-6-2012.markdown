@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2012-06-04 21:35:39 +02:00
+event: 
+  calendar: lugal
+  description: "Gnuradio and <strong>S</strong>oftware <strong>D</strong>efined <strong>R</strong>adio (rtl2832U) Hands-on - <strong>Robin Cremer, University of Ulm</strong>"
+  enddate: "09.06.2012"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "09.06.2012"
+  starttime: "18:00"
+  summary: "LUGAL Juni 2012"
+  timezone: Europe/Berlin
+layout: post
+title: "9.6.2012"
+---
+
+{% render_event %}
+
+

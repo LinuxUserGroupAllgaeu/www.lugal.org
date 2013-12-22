@@ -1,0 +1,37 @@
+--- 
+categories: 
+  - termin
+created: 2011-12-08 15:42:00 +01:00
+event: 
+  calendar: lugal
+  description: "-"
+  enddate: "10.12.2011"
+  endtime: "20:00"
+  lat: 48.03613
+  location: "Burgrestaurant (Mindelburg), Mindelheim"
+  lon: 10.48437
+  startdate: "10.12.2011"
+  starttime: "18:00"
+  summary: "LUGAL Dezember 2011"
+  timezone: Europe/Berlin
+layout: post
+title: "10.12.2011 - Weihnachtsfeier"
+---
+
+{% render_event %}
+Bitte bringt wieder jeder ein Geschenk mit, am besten so um die 4 - 5 
+Euro, max. bis 10,--, wir wichteln wieder.
+
+Bei Fragen, den chaas fragen!
+
+
+Nachlese
+--------
+http://gnuradio.org/redmine/projects/gnuradio/wiki
+
+http://gnuradio.org/redmine/projects/gnuradio/wiki/Hardware#The-USRP-series-by-Ettus
+
+http://thenextweb.com/microsoft/2010/10/20/why-mac-fanboys-are-100-satisfied/
+
+http://www.stern.de/digital/homeentertainment/hirnforschung-apple-ruft-religioese-gefuehle-hervor-1687279.html
+http://www.heise.de/autos/artikel/PKW-Energielabel-wird-eingefuehrt-und-diskutiert-1386916.html

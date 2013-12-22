@@ -1,0 +1,32 @@
+--- 
+categories: 
+  - termin
+created: 2012-04-12 11:55:13 +02:00
+event: 
+  calendar: lugal
+  description: "Kleine Einführung in Octopress - SRSLY fahren wir zum Lugcamp 2012?"
+  enddate: "14.04.2012"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "14.04.2012"
+  starttime: "18:00"
+  summary: "LUGAL April 2012"
+  timezone: Europe/Berlin
+layout: post
+title: "14.4.2012"
+---
+
+{% render_event %}
+
+
+
+Nachlese
+--------
+http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/
+http://www.daten-tarife-vergleich.com/huawai-e160-datenblatt/
+http://3g-modem.wetpaint.com/page/Huawei+D100,+D100T
+http://mwconn.net/
+http://eshop.brennpunkt-srl.de/index.php?cPath=2&XTCsid=c3d1c6567a4194a0fd16975ab0dd43ad
+http://www.reddit.com/r/RTLSDR/comments/s6ddo/rtlsdr_compatibility_list_v2_work_in_progress/

@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2010-11-01 15:55:15 +01:00
+event: 
+  calendar: lugal
+  description: "Erstellen eines Storyboard =) (näheres bei Bino)"
+  enddate: "13.11.2010"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "13.11.2010"
+  starttime: "18:00"
+  summary: "LUGAL November 2010"
+  timezone: Europe/Berlin
+layout: post
+title: "13.11.2010"
+---
+
+{% render_event %}
+
+

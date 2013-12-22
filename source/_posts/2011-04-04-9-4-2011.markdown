@@ -1,0 +1,24 @@
+--- 
+categories: 
+  - termin
+created: 2011-04-04 21:34:20 +02:00
+event: 
+  calendar: lugal
+  description: "RRZA Techtalks"
+  enddate: "09.04.2011"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "09.04.2011"
+  starttime: "18:00"
+  summary: "LUGAL April 2011"
+  timezone: Europe/Berlin
+layout: post
+title: "9.4.2011"
+---
+
+{% render_event %}
+<b>Matteo Hausner</b> - Out of the Mothballs: OSS v4
+<b>Christian Haas</b> (CEO of RRZA)- Opensuse 11.4
+

@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2009-06-28 18:33:25 +02:00
+event: 
+  calendar: lugal
+  description: "-"
+  enddate: "18.07.2009"
+  endtime: "16:00"
+  lat: 47.9846
+  location: "Valentino,Memmingen"
+  lon: 10.18214
+  startdate: "18.07.2009"
+  starttime: "14:00"
+  summary: "LUGAL Juli 2009"
+  timezone: Europe/Berlin
+layout: post
+title: "18.7.2009"
+---
+
+{% render_event %}
+
+

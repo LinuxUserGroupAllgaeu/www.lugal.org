@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2009-09-29 10:07:19 +02:00
+event: 
+  calendar: lugal
+  description: "Zuerst Jahrmarkt, dann Valentino"
+  enddate: "10.10.2009"
+  endtime: "19:00"
+  lat: 47.98524
+  location: Memmingen
+  lon: 10.1816
+  startdate: "10.10.2009"
+  starttime: "17:00"
+  summary: "LUGAL Oktober 2009"
+  timezone: Europe/Berlin
+layout: post
+title: "10.10.2009"
+---
+
+{% render_event %}
+
+

@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2013-05-22 23:26:02 +02:00
+event: 
+  calendar: lugal
+  description: "CAVE Präsentation in der HS Kempten"
+  enddate: "25.05.2013"
+  endtime: "20:00"
+  lat: 47.718088
+  location: "Hochschule Kempten (danach: Cafe College, Kempten)"
+  lon: 10.315068
+  startdate: "25.05.2013"
+  starttime: "18:00"
+  summary: "LUGAL Mai 2013"
+  timezone: Europe/Berlin
+layout: post
+title: "25.05.2013"
+---
+
+{% render_event %}
+
+

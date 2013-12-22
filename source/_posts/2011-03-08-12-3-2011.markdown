@@ -1,0 +1,30 @@
+--- 
+categories: 
+  - termin
+created: 2011-03-08 21:33:35 +01:00
+event: 
+  calendar: lugal
+  description: ".."
+  enddate: "12.03.2011"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "12.03.2011"
+  starttime: "18:00"
+  summary: "LUGAL Maerz 2011"
+  timezone: Europe/Berlin
+layout: post
+title: "12.3.2011"
+---
+
+{% render_event %}
+<div style="background-color: #99FF99;padding: 5px;">
+<ul>
+<li>
+Opensuse 11.4 presented by <i>CEO of RRZA</i>, <i>Christian Haas</i> (also openSUSE Ambassador)
+</ul>
+<img src="http://counter.opensuse.org/11.4/small.en.png" />
+
+</div>
+

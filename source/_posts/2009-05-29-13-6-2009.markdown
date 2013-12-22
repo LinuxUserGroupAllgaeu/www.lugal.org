@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2009-05-29 22:20:19 +02:00
+event: 
+  calendar: lugal
+  description: "Bringt ein spannendes mit :)"
+  enddate: "13.06.2009"
+  endtime: "16:00"
+  lat: 47.71886
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "13.06.2009"
+  starttime: "14:00"
+  summary: "LUGAL Juni 2009"
+  timezone: Europe/Berlin
+layout: post
+title: "13.6.2009"
+---
+
+{% render_event %}
+
+

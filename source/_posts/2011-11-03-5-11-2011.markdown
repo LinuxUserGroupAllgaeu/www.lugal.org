@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2011-11-03 22:06:38 +01:00
+event: 
+  calendar: lugal
+  description: "Befällt die AKW Seuche bald die ganze Lugal?"
+  enddate: "05.11.2011"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "05.11.2011"
+  starttime: "18:00"
+  summary: "LUGAL November 2011"
+  timezone: Europe/Berlin
+layout: post
+title: "5.11.2011"
+---
+
+{% render_event %}
+
+

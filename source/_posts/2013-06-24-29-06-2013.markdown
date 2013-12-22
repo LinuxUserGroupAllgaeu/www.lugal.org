@@ -1,0 +1,30 @@
+--- 
+categories: 
+  - termin
+created: 2013-06-24 15:26:28 +02:00
+event: 
+  calendar: lugal
+  description: "Planung LUGAL Grillen"
+  enddate: "29.06.2013"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "29.06.2013"
+  starttime: "18:00"
+  summary: "LUGAL Juni 2013"
+  timezone: Europe/Berlin
+layout: post
+title: "29.06.2013"
+---
+
+{% render_event %}
+
+
+
+Nachlese
+--------
+http://aviation-safety.net/database/record.php?id=20011004-0&lang=de
+https://en.wikipedia.org/wiki/Iran_Air_Flight_655
+https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_007
+http://edition.cnn.com/2004/WORLD/meast/05/24/air.defense/

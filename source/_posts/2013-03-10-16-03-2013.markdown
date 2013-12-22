@@ -1,0 +1,31 @@
+--- 
+categories: 
+  - termin
+created: 2013-03-10 23:52:37 +01:00
+event: 
+  calendar: lugal
+  description: "Planung LugCamp 2013"
+  enddate: "16.03.2013"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "16.03.2013"
+  starttime: "18:00"
+  summary: "LUGAL Maerz 2013"
+  timezone: Europe/Berlin
+layout: post
+title: "16.03.2013"
+---
+
+{% render_event %}
+
+
+
+Nachlese
+--------
+Space Glider:
+https://www.youtube.com/watch?v=rpBnurznFio
+
+Windows NT on SPARC:
+http://ftp.lanet.lv/ftp/sun-info/sunflash/1993/Jul/55.11-Sun-Intergraph:-SPARC-and-Windows-NT

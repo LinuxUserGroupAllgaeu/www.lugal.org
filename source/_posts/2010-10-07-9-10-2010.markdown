@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2010-10-07 18:46:22 +02:00
+event: 
+  calendar: lugal
+  description: nA.
+  enddate: "09.10.2010"
+  endtime: "18:00"
+  lat: 47.984
+  location: "Memmingen, Valentino"
+  lon: 10.18212
+  startdate: "09.10.2010"
+  starttime: "16:00"
+  summary: "LUGAL Oktober 2010"
+  timezone: Europe/Berlin
+layout: post
+title: "9.10.2010"
+---
+
+{% render_event %}
+
+

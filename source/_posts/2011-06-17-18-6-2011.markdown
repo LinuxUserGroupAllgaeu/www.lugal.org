@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2011-06-17 00:40:45 +02:00
+event: 
+  calendar: lugal
+  description: "3.0-rc3 Release Party "
+  enddate: "18.06.2011"
+  endtime: "20:00"
+  lat: 47.71889
+  location: "Kempten, Cafe College"
+  lon: 10.3143
+  startdate: "18.06.2011"
+  starttime: "18:00"
+  summary: "LUGAL Juni 2011"
+  timezone: Europe/Berlin
+layout: post
+title: "18.6.2011"
+---
+
+{% render_event %}
+
+

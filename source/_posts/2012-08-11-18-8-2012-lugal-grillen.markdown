@@ -1,0 +1,31 @@
+--- 
+categories: 
+  - termin
+created: 2012-08-11 13:59:51 +02:00
+event: 
+  calendar: lugal
+  description: "<em>Packt die Langschwerter ein, wir grillen auf der Burg Wolkenberg!</em>"
+  enddate: "18.08.2012"
+  endtime: "18:00"
+  lat: 0
+  location: "Burgruine Wolkenberg"
+  lon: 0
+  startdate: "18.08.2012"
+  starttime: "16:00"
+  summary: "LUGAL August 2012"
+  timezone: Europe/Berlin
+layout: post
+title: "18.8.2012 - Lugal Grillen"
+---
+
+{% render_event %}
+Wir treffen uns um 16:00h am Fenepark Kempten (A7 Ausfahrt Leubas, dann Richtung Kempten). Dort kaufen wir ein und fahren dann gemeinsam zur Burg.
+
+Im untenstehenden Bild findet ihr den Anfahrtsplan falls ihr nachkommt.
+
+<a href=http://www.lugal.org/sites/default/files/anfahrt-lugal-grillen-2012.png>Bild</a>
+
+
+Nachlese
+--------
+* http://de.wikipedia.org/wiki/Wie_Titanic_einmal_die_Fu%C3%9Fball-WM_2006_nach_Deutschland_holte

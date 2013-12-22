@@ -1,0 +1,37 @@
+--- 
+categories: 
+  - termin
+created: 2011-10-13 19:08:24 +02:00
+event: 
+  calendar: lugal
+  description: "revisiting Memmingen"
+  enddate: "15.10.2011"
+  endtime: "20:00"
+  lat: 47.9845
+  location: "Restaurant Waldhorn, Memmingen"
+  lon: 10.18513
+  startdate: "15.10.2011"
+  starttime: "18:00"
+  summary: "LUGAL Oktober 2011"
+  timezone: Europe/Berlin
+layout: post
+title: "15.10.2011"
+---
+
+{% render_event %}
+
+
+
+Nachlese
+--------
+http://www.youtube.com/watch?v=qDLYCyvo0yg
+
+http://blog.fefe.de/
+
+<a href="http://www.taz.de/Unternehmer-zur-Energiewende/!73333">http://www.taz.de/Unternehmer-zur-Energiewende/!73333</a>
+
+http://blog.fefe.de/?ts=b066ed83
+
+http://alternativlos.org/19/
+
+http://www.dradio.de/dlf/sendungen/forschak/1504683/

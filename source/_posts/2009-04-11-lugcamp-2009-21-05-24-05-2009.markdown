@@ -1,0 +1,23 @@
+--- 
+categories: 
+  - termin
+created: 2009-04-11 18:30:24 +02:00
+event: 
+  calendar: lugal
+  description: "Denkt euch eins aus"
+  enddate: "24.05.2009"
+  endtime: "18:00"
+  lat: 47.56385
+  location: "Nähe Bühl am Alpsee"
+  lon: 10.17392
+  startdate: "24.05.2009"
+  starttime: "16:00"
+  summary: "LUGAL Mai 2009"
+  timezone: Europe/Berlin
+layout: post
+title: "LugCamp 2009 21.05 - 24.05.2009"
+---
+
+{% render_event %}
+Allgemeine Informationen: http://www.lugcamp.org/
+
