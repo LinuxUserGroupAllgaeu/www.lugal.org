@@ -34,3 +34,4 @@ Nachlese
 * http://jruby.org/
 * http://www.jython.org/
 * https://events.ccc.de/congress/2013/wiki/Projects:Seidenstrasse
+* http://www.youtube.com/watch?v=Fr6FklMc6B0
