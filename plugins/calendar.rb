@@ -12,33 +12,14 @@ module Jekyll
   class CalendarGenerator < Generator
     def parseEventInfo(event)
         # Parse date
-        if event['startdate'] =~ /^(\d*)\.(\d*)\.(\d*)/i
-          day = $1.to_i
-          month = $2.to_i
-          year = $3.to_i
-        end
-        if event['starttime'] =~ /^(\d*):(\d*)/i
-          hour = $1.to_i
-          minute = $2.to_i
-        end
-        starttime = DateTime.new(year, month, day, hour, minute)
+        startdate = Time.parse(event['startdate'])
         if event.has_key?('enddate')
-          if event['enddate'] =~ /^(\d*)\.(\d*)\.(\d*)/i
-            day = $1.to_i
-            month = $2.to_i
-            year = $3.to_i
-          end
+          enddate = Time.parse(event['enddate'])
+        else
+          enddate = startdate
         end
-        if event['endtime'] =~ /^(\d*):(\d*)/i
-          hour = $1.to_i
-          minute = $2.to_i
-        end
-        endtime = DateTime.new(year, month, day, hour, minute)
-
-        event['starttime'] = starttime
-        event['endtime'] = endtime
-        event.delete('startdate')
-        event.delete('enddate')
+        event['startdate'] = startdate
+        event['enddate'] = enddate
     end
 
     def generate(site)
@@ -66,8 +47,8 @@ module Jekyll
             cal.add(timezone)
           end
           cal.event do
-            dtstart event['starttime']
-            dtend   event['endtime']
+            dtstart event['startdate']
+            dtend   event['enddate']
             description event['description']
             summary event['summary']
             url site.config['url'] + post.url
@@ -96,13 +77,13 @@ module Jekyll
       if event
         template = "<div class='event'>
                   <div class='calendar'>
-                    <div class='calendar-weekday'>#{event['starttime'].strftime("%A")}</div>
-                    <div class='calendar-day'>#{event['starttime'].strftime("%e")}</div>
+                    <div class='calendar-weekday'>#{event['startdate'].strftime("%A")}</div>
+                    <div class='calendar-day'>#{event['startdate'].strftime("%e")}</div>
                   </div>
                   <div class='eventinfo'>
                     <ul>
-                      <li>Beginn: #{event['starttime'].strftime("%d.%m.%y - %H:%M")}</li>
-                      <li>Ende: #{event['endtime'].strftime("%d.%m.%y  - %H:%M")}</li>
+                      <li>Beginn: #{event['startdate'].strftime("%d.%m.%y - %H:%M")}</li>
+                      <li>Ende: #{event['enddate'].strftime("%d.%m.%y  - %H:%M")}</li>
                       <li>Ort: #{event['location']}</li>
                       <li>Thema: #{event['description']}</li>
                   </div>
