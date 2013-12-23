@@ -9,10 +9,8 @@ event:
   calendar: lugal
   lat: 47.70020
   lon: 10.39639
-  startdate: "21.12.2013"
-  enddate: "21.12.2013"
-  starttime: "19:00"
-  endtime: "21:00"
+  startdate: 21.12.2013 19:00
+  enddate: 21.12.2013 21:00
   timezone: "Europe/Berlin"
   location: "Zum Tobias, Durach"
   description: "Gutes Essen und 30c3"

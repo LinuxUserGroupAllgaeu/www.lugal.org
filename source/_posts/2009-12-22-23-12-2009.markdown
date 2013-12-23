@@ -5,13 +5,11 @@ created: 2009-12-22 22:17:55 +01:00
 event: 
   calendar: lugal
   description: "Avatar - Aufbruch nach Pandora"
-  enddate: "23.12.2009"
-  endtime: "21:30"
+  enddate: 23.12.2009 21:30
   lat: 47.72233
   location: "Colloseum Center, Kempten"
   lon: 10.31364
-  startdate: "23.12.2009"
-  starttime: "19:30"
+  startdate: 23.12.2009 19:30
   summary: "LUGAL Dezember 2009"
   timezone: Europe/Berlin
 layout: post

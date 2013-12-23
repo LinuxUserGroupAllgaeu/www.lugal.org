@@ -5,13 +5,11 @@ created: 2011-10-13 19:08:24 +02:00
 event: 
   calendar: lugal
   description: "revisiting Memmingen"
-  enddate: "15.10.2011"
-  endtime: "20:00"
+  enddate: 15.10.2011 20:00
   lat: 47.9845
   location: "Restaurant Waldhorn, Memmingen"
   lon: 10.18513
-  startdate: "15.10.2011"
-  starttime: "18:00"
+  startdate: 15.10.2011 18:00
   summary: "LUGAL Oktober 2011"
   timezone: Europe/Berlin
 layout: post

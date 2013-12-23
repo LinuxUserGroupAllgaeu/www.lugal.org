@@ -5,13 +5,11 @@ created: 2011-09-15 00:57:48 +02:00
 event: 
   calendar: lugal
   description: "the adobe crashplugin has flashed"
-  enddate: "17.09.2011"
-  endtime: "20:00"
+  enddate: 17.09.2011 20:00
   lat: 47.71889
   location: "Kempten, Cafe College"
   lon: 10.3143
-  startdate: "17.09.2011"
-  starttime: "18:00"
+  startdate: 17.09.2011 18:00
   summary: "LUGAL September 2011"
   timezone: Europe/Berlin
 layout: post

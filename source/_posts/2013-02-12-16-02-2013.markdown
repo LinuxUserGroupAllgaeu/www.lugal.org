@@ -5,13 +5,11 @@ created: 2013-02-12 01:45:46 +01:00
 event: 
   calendar: lugal
   description: "-"
-  enddate: "16.02.2013"
-  endtime: "20:00"
+  enddate: 16.02.2013 20:00
   lat: 47.718088
   location: "Times, Kempten"
   lon: 10.315068
-  startdate: "16.02.2013"
-  starttime: "18:00"
+  startdate: 16.02.2013 18:00
   summary: "LUGAL Februar 2013"
   timezone: Europe/Berlin
 layout: post

@@ -5,13 +5,11 @@ created: 2011-03-08 21:33:35 +01:00
 event: 
   calendar: lugal
   description: ".."
-  enddate: "12.03.2011"
-  endtime: "20:00"
+  enddate: 12.03.2011 20:00
   lat: 47.71889
   location: "Kempten, Cafe College"
   lon: 10.3143
-  startdate: "12.03.2011"
-  starttime: "18:00"
+  startdate: 12.03.2011 18:00
   summary: "LUGAL Maerz 2011"
   timezone: Europe/Berlin
 layout: post

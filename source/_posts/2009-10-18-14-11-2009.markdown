@@ -5,13 +5,11 @@ created: 2009-10-18 21:01:22 +02:00
 event: 
   calendar: lugal
   description: "Openstreetmap Einführung / Allgemeine Diskussion"
-  enddate: "14.11.2009"
-  endtime: "20:00"
+  enddate: 14.11.2009 20:00
   lat: 47.71886
   location: "Kempten, Cafe College"
   lon: 10.3143
-  startdate: "14.11.2009"
-  starttime: "18:00"
+  startdate: 14.11.2009 18:00
   summary: "LUGAL November 2009"
   timezone: Europe/Berlin
 layout: post

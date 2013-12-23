@@ -5,13 +5,11 @@ created: 2010-08-20 18:25:08 +02:00
 event: 
   calendar: lugal
   description: "Lecker Fleisch."
-  enddate: "04.09.2010"
-  endtime: "20:00"
+  enddate: 04.09.2010 20:00
   lat: 48.0112
   location: "Binos Palace, Sontheim"
   lon: 10.3467
-  startdate: "04.09.2010"
-  starttime: "18:00"
+  startdate: 04.09.2010 18:00
   summary: "LUGAL September 2010"
   timezone: Europe/Berlin
 layout: post

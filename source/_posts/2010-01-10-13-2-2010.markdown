@@ -5,13 +5,11 @@ created: 2010-01-10 00:54:12 +01:00
 event: 
   calendar: lugal
   description: "Wie kommen wir zum CLT?"
-  enddate: "13.02.2010"
-  endtime: "20:00"
+  enddate: 13.02.2010 20:00
   lat: 47.71886
   location: "Kempten, Cafe College"
   lon: 10.3143
-  startdate: "13.02.2010"
-  starttime: "18:00"
+  startdate: 13.02.2010 18:00
   summary: "LUGAL Februar 2010"
   timezone: Europe/Berlin
 layout: post

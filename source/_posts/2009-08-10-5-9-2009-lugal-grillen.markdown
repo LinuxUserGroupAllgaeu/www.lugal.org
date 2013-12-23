@@ -5,13 +5,11 @@ created: 2009-08-10 19:21:38 +02:00
 event: 
   calendar: lugal
   description: "Die Lugal grillt."
-  enddate: "05.09.2009"
-  endtime: "16:00"
+  enddate: 05.09.2009 16:00
   lat: 47.96825
   location: "RZ Benningen"
   lon: 10.20086
-  startdate: "05.09.2009"
-  starttime: "14:00"
+  startdate: 05.09.2009 14:00
   summary: "LUGAL September 2009"
   timezone: Europe/Berlin
 layout: post

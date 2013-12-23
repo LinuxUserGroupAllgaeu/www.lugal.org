@@ -5,13 +5,11 @@ created: 2011-07-21 22:41:48 +02:00
 event: 
   calendar: lugal
   description: "Kernel 3.0<s>-rc7</s> <b>Final</b> Release Party"
-  enddate: "23.07.2011"
-  endtime: "20:00"
+  enddate: 23.07.2011 20:00
   lat: 47.71889
   location: "Kempten, Cafe College "
   lon: 10.3143
-  startdate: "23.07.2011"
-  starttime: "18:00"
+  startdate: 23.07.2011 18:00
   summary: "LUGAL Juli 2011"
   timezone: Europe/Berlin
 layout: post

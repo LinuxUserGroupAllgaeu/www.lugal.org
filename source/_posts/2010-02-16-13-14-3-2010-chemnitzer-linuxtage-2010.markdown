@@ -5,13 +5,11 @@ created: 2010-02-16 01:58:20 +01:00
 event: 
   calendar: lugal
   description: "Dienste und Dämonen"
-  enddate: "14.03.2010"
-  endtime: "10:30"
+  enddate: 14.03.2010 10:30
   lat: 50.81366
   location: "Hörsaal- und Seminar-Gebäude der Technischen Universität Chemnitz"
   lon: 12.93005
-  startdate: "14.03.2010"
-  starttime: "08:30"
+  startdate: 14.03.2010 08:30
   summary: "LUGAL Maerz 2010"
   timezone: Europe/Berlin
 layout: post

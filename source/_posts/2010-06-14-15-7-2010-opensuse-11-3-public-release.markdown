@@ -5,13 +5,11 @@ created: 2010-06-14 15:58:00 +02:00
 event: 
   calendar: lugal
   description: "openSUSE 11.3"
-  enddate: "15.07.2010"
-  endtime: "20:00"
+  enddate: 15.07.2010 20:00
   lat: 47.96765
   location: "RRZA - Regionales Rechenzentrum Allgäu"
   lon: 10.2004
-  startdate: "15.07.2010"
-  starttime: "18:00"
+  startdate: 15.07.2010 18:00
   summary: "LUGAL Juli 2010"
   timezone: Europe/Berlin
 layout: post

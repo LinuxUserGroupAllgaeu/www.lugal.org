@@ -5,13 +5,11 @@ created: 2012-04-12 11:55:13 +02:00
 event: 
   calendar: lugal
   description: "Kleine Einführung in Octopress - SRSLY fahren wir zum Lugcamp 2012?"
-  enddate: "14.04.2012"
-  endtime: "20:00"
+  enddate: 14.04.2012 20:00
   lat: 47.71889
   location: "Kempten, Cafe College"
   lon: 10.3143
-  startdate: "14.04.2012"
-  starttime: "18:00"
+  startdate: 14.04.2012 18:00
   summary: "LUGAL April 2012"
   timezone: Europe/Berlin
 layout: post

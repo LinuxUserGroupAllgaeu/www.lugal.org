@@ -5,13 +5,11 @@ created: 2011-05-05 19:43:10 +02:00
 event: 
   calendar: lugal
   description: "Matteo Hausner - Out of the Mothballs: OSS v4 "
-  enddate: "21.05.2011"
-  endtime: "20:00"
+  enddate: 21.05.2011 20:00
   lat: 47.9845
   location: "Restaurant Waldhorn, Memmingen"
   lon: 10.18513
-  startdate: "21.05.2011"
-  starttime: "18:00"
+  startdate: 21.05.2011 18:00
   summary: "LUGAL Mai 2011"
   timezone: Europe/Berlin
 layout: post

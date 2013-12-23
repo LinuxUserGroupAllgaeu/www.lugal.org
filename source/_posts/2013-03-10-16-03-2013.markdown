@@ -5,13 +5,11 @@ created: 2013-03-10 23:52:37 +01:00
 event: 
   calendar: lugal
   description: "Planung LugCamp 2013"
-  enddate: "16.03.2013"
-  endtime: "20:00"
+  enddate: 16.03.2013 20:00
   lat: 47.71889
   location: "Kempten, Cafe College"
   lon: 10.3143
-  startdate: "16.03.2013"
-  starttime: "18:00"
+  startdate: 16.03.2013 18:00
   summary: "LUGAL Maerz 2013"
   timezone: Europe/Berlin
 layout: post

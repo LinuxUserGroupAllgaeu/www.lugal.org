@@ -5,13 +5,11 @@ created: 2013-06-30 01:06:36 +02:00
 event: 
   calendar: lugal
   description: "Rerhythmisierung zukünftiger Termine"
-  enddate: "13.07.2013"
-  endtime: "20:00"
+  enddate: 13.07.2013 20:00
   lat: 47.71889
   location: "Kempten, Cafe College"
   lon: 10.3143
-  startdate: "13.07.2013"
-  starttime: "18:00"
+  startdate: 13.07.2013 18:00
   summary: "LUGAL Juli 2013"
   timezone: Europe/Berlin
 layout: post

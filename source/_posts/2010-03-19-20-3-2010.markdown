@@ -5,13 +5,11 @@ created: 2010-03-19 16:57:35 +01:00
 event: 
   calendar: lugal
   description: "Lugcamp 2010 -> Wer macht die Kässpatzen?"
-  enddate: "20.03.2010"
-  endtime: "20:00"
+  enddate: 20.03.2010 20:00
   lat: 47.98524
   location: "Memmingen, Valentino"
   lon: 10.1816
-  startdate: "20.03.2010"
-  starttime: "18:00"
+  startdate: 20.03.2010 18:00
   summary: "LUGAL Maerz 2010"
   timezone: Europe/Berlin
 layout: post

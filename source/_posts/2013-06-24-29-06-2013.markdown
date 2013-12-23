@@ -5,13 +5,11 @@ created: 2013-06-24 15:26:28 +02:00
 event: 
   calendar: lugal
   description: "Planung LUGAL Grillen"
-  enddate: "29.06.2013"
-  endtime: "20:00"
+  enddate: 29.06.2013 20:00
   lat: 47.71889
   location: "Kempten, Cafe College"
   lon: 10.3143
-  startdate: "29.06.2013"
-  starttime: "18:00"
+  startdate: 29.06.2013 18:00
   summary: "LUGAL Juni 2013"
   timezone: Europe/Berlin
 layout: post

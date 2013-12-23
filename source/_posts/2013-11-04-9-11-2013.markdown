@@ -5,13 +5,11 @@ created: 2013-11-04 01:01:02 +01:00
 event: 
   calendar: lugal
   description: "Bringt eins mit ;)"
-  enddate: "09.11.2013"
-  endtime: "20:00"
+  enddate: 09.11.2013 20:00
   lat: 47.71889
   location: "Kempten, Cafe College"
   lon: 10.3143
-  startdate: "09.11.2013"
-  starttime: "18:00"
+  startdate: 09.11.2013 18:00
   summary: "LUGAL November 2013"
   timezone: Europe/Berlin
 layout: post
