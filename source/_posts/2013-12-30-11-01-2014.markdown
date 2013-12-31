@@ -1,0 +1,21 @@
+--- 
+categories: 
+  - termin
+created: 2013-12-30 22:01:02 +01:00
+event: 
+  calendar: lugal
+  description: "30c3 Review"
+  startdate: 11.01.2014 18:00
+  enddate: 11.01.2014 21:00
+  location: "Kempten, Cafe College"
+  lat: 47.71889
+  lon: 10.3143
+  summary: "LUGAL Januar 2014"
+  timezone: Europe/Berlin
+layout: post
+title: "11.01.2014"
+---
+
+{% render_event %}
+
+
