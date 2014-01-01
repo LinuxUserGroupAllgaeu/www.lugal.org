@@ -12,9 +12,9 @@ module Jekyll
   class CalendarGenerator < Generator
     def parseEventInfo(event)
         # Parse date
-        startdate = Time.parse(event['startdate'])
+        startdate = DateTime.parse(event['startdate'])
         if event.has_key?('enddate')
-          enddate = Time.parse(event['enddate'])
+          enddate = DateTime.parse(event['enddate'])
         else
           enddate = startdate
         end
@@ -55,7 +55,6 @@ module Jekyll
             location event['location']
             geo Geo.new(event['lat'], event['lon'])
           end
-          post.data['eventinfo'] = event
         end
       end
       calendars.each do |name,calendar|
@@ -73,7 +72,7 @@ module Jekyll
 
   class EventTag < Liquid::Tag
     def render(context)
-      event = context['page']['eventinfo']
+      event = context['page']['event']
       if event
         template = "<div class='event'>
                   <div class='calendar'>
