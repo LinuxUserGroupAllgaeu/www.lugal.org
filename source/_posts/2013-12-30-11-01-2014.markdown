@@ -18,4 +18,12 @@ title: "11.01.2014"
 
 {% render_event %}
 
-
+Nachlese
+--------
+* http://www.youtube.com/watch?v=krJmTZ-TcMc
+* http://www.youtube.com/watch?v=iBw618geqyI
+* http://techreport.com/news/24940/amd-intros-fx-9590-processor-with-5ghz-peak-turbo-speed
+* http://media.ccc.de/browse/congress/2013/30C3_-_5463_-_en_-_saal_1_-_201312281400_-_hillbilly_tracking_of_low_earth_orbit_-_travis_goodspeed.html
+* http://media.ccc.de/browse/congress/2013/30C3_-_5413_-_de_-_saal_1_-_201312301715_-_security_nightmares_-_frank_-_ron.html
+* http://berliner-unterwelten.de/die-berliner-rohrpost.314.0.html
+* http://www.phoronix.com/scan.php?page=article&item=nvidia_qa_linux&num=1
