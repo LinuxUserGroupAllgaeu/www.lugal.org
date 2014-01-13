@@ -27,3 +27,4 @@ Nachlese
 * http://media.ccc.de/browse/congress/2013/30C3_-_5413_-_de_-_saal_1_-_201312301715_-_security_nightmares_-_frank_-_ron.html
 * http://berliner-unterwelten.de/die-berliner-rohrpost.314.0.html
 * http://www.phoronix.com/scan.php?page=article&item=nvidia_qa_linux&num=1
+* http://www.overclock.net/t/491752/mechanical-keyboard-guide
