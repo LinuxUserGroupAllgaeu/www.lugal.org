@@ -1,0 +1,20 @@
+---
+layout: post
+title: "8.02.2014"
+date: 2014-01-23 20:05:55 +0100
+comments: true
+categories: 
+  - termin
+event: 
+  calendar: lugal
+  description: "Next-gen Filesystems"
+  startdate: 8.02.2014 18:00
+  enddate: 8.02.2014 21:00
+  location: "Kempten, Cafe College"
+  lat: 47.71889
+  lon: 10.3143
+  summary: "LUGAL Februar 2014"
+  timezone: Europe/Berlin
+---
+
+{% render_event %}
