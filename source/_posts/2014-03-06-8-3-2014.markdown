@@ -1,0 +1,44 @@
+---
+layout: post
+title: "8.3.2014"
+date: 2014-03-06 17:02:18 +0100
+categories: 
+  - termin
+event: 
+  calendar: lugal
+  description: "btrfs Disaster Recoveries und andere spannende Aktivitäten"
+  startdate: 8.03.2014 18:00
+  enddate: 8.03.2014 21:00
+  location: "Kempten, Cafe College"
+  lat: 47.71889
+  lon: 10.3143
+  summary: "LUGAL März 2014"
+  timezone: Europe/Berlin
+---
+
+{% render_event %}
+
+Nachlese
+--------
+
+Bitcoin:
+
+- Professionelles ASIC-Mining in China: https://bitcointalk.org/index.php?topic=346134.0
+- MtGox Sourcecode: http://pastebin.com/W8B3CGiN
+- Übersicht der Wechselkurse aller Crypto Currencies: http://coinmarketcap.com/
+- Etwas zu den MtGox Hintergründen: http://hackingdistributed.com/2014/03/01/what-did-not-happen-at-mtgox/ (Man beachte die Magic Karten :D)
+
+Btrfs:
+
+- SSD Mount Optionen: http://permalink.gmane.org/gmane.comp.file-systems.btrfs/33303
+- https://btrfs.wiki.kernel.org/index.php/Restore
+- http://www.funtoo.org/BTRFS_Fun#btrfs-select-super_.2F_btrfs-zero-log
+- http://arstechnica.com/civis/viewtopic.php?f=16&t=1226135 (-> Send
+incremental snapshots out of order)
+
+Divers:
+
+- https://www.youtube.com/watch?v=CmC62Eg82E8
+- http://www.golem.de/news/google-fiber-wir-arbeiten-an-10-gbit-s-1402-104595.html
+- http://www.spiegel.de/netzwelt/web/schmalband-deutschland-warum-unser-internet-immer-noch-zu-langsam-ist-a-901508.html
+- http://asset-a.soup.io/asset/6926/6286_a0dc.gif
