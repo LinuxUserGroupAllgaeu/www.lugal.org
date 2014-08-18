@@ -1,0 +1,57 @@
+---
+layout: post
+title: "31.05.2014"
+date: 2014-05-22 22:09:06 +0200
+comments: true
+categories: 
+  - termin
+event: 
+  calendar: lugal
+  description: "Saufen Fressen Linux - Lugcamp Remote"
+  startdate: 31.05.2014 18:00
+  enddate: 31.05.2014 21:00
+  location: "Kempten, Cafe College"
+  lat: 47.71889
+  lon: 10.3143
+  summary: "LUGAL Mai 2014"
+  timezone: Europe/Berlin
+---
+
+{% render_event %}
+
+Nachlese
+--------
+
+Systemd:
+
+- https://twitter.com/Donearm/status/471708084466110464
+- [Austrian Death Machine - I Am A Cybernetic Organism, Living Tissue Over (Metal) Endoskeleton](https://www.youtube.com/watch?v=jEKZ4de_7v0)
+- http://0pointer.de/blog/projects/why.html
+
+Automatisierung:
+
+- http://video.golem.de/wirtschaft/7588/kivas-lagerorganisationsroboter-trailer.html
+- http://t3n.de/news/amazon-ersetzt-mitarbeiter-504483/
+- http://www.radiolab.org/story/brown-box/
+
+AUTOSAR:
+
+- https://de.wikipedia.org/wiki/AUTOSAR
+- http://www.autosar.org/
+- https://de.wikipedia.org/wiki/OSEK-OS
+
+Virtualisierung:
+
+- http://wiki.xenproject.org/wiki/Xen_ARM_with_Virtualization_Extensions
+- http://blog.xen.org/index.php/2014/04/01/virtualization-on-arm-with-xen/
+- http://community.arm.com/groups/processors/blog/2013/10/24/software-consolidation-with-the-armv8-r-hypervisor
+- https://de.wikipedia.org/wiki/Hypervisor#Klassifizierung
+
+Divers:
+
+- https://en.wikipedia.org/wiki/Triple_modular_redundancy
+- http://www.bmw.de/de/neufahrzeuge/bmw-i/i8/2013/antrieb.html
+- https://de.wikipedia.org/wiki/BMW_i8#Technik
+- https://github.com/django/django/pull/2692
+- https://github.com/django/django/pull/2718
+- http://www.dkriesel.com/blog/2013/1219_c-plus-equality

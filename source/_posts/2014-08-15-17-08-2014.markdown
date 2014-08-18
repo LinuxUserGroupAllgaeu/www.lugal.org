@@ -1,0 +1,28 @@
+---
+layout: post
+title: "17.08.2014"
+date: 2014-08-15 22:30:03 +0200
+comments: true
+categories: 
+  - termin
+event: 
+  calendar: lugal
+  description: "Housewarming - Grillen bei chaas"
+  startdate: 17.08.2014 17:00
+  enddate: 17.08.2014 23:00
+  location: "Chez chaas"
+  lat: 47.98864
+  lon: 10.19414
+  summary: "Housewarming - Grillen bei chaas"
+  timezone: Europe/Berlin
+---
+
+{% render_event %}
+
+Wichtig: Da wir Sonntags grillen gibt es diesmal kein gemeinsames Einkaufen, ihr müsst euch also spätestens morgen selbst um Grillgut, Soßen und Getränke kümmern...
+
+Nachlese
+--------
+
+* https://en.m.wikipedia.org/wiki/Anatoli_Bugorski
+* https://www.youtube.com/watch?v=UQ3MRkdF9Sk
