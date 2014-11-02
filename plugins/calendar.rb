@@ -44,16 +44,16 @@ module Jekyll
             tz = TZInfo::Timezone.get(event['timezone'])
             timezone = tz.ical_timezone(event['starttime'])
             timezones[event['calendar']].push(event['timezone'])
-            cal.add(timezone)
+            cal.add_timezone(timezone)
           end
-          cal.event do
-            dtstart event['startdate']
-            dtend   event['enddate']
-            description event['description']
-            summary event['summary']
-            url site.config['url'] + post.url
-            location event['location']
-            geo Geo.new(event['lat'], event['lon'])
+          cal.event do |e|
+            e.dtstart = event['startdate']
+            e.dtend   = event['enddate']
+            e.description = event['description']
+            e.summary = event['summary']
+            e.url = site.config['url'] + post.url
+            e.location = event['location']
+            e.geo = [event['lat'], event['lon']]
           end
         end
       end
