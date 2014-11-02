@@ -1,0 +1,20 @@
+---
+layout: post
+title: "8.11.2014"
+date: 2014-11-02 18:33:36 +0100
+comments: true
+categories: 
+  - termin
+event: 
+  calendar: lugal
+  description: "Shall we fork LUGAL?"
+  startdate: 8.11.2014 18:00
+  enddate: 8.11.2014 23:00
+  location: "Kempten, Cafe College"
+  lat: 47.71889
+  lon: 10.3143
+  summary: "Shall we fork LUGAL?"
+  timezone: Europe/Berlin
+---
+
+{% render_event %}

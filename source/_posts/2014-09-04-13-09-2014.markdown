@@ -1,0 +1,40 @@
+---
+layout: post
+title: "13.09.2014"
+date: 2014-09-04 18:56:18 +0200
+comments: true
+categories: 
+  - termin
+event: 
+  calendar: lugal
+  description: "Lugal: Revived"
+  startdate: 13.09.2014 18:00
+  enddate: 13.09.2014 23:00
+  location: "Kempten, Cafe College"
+  lat: 47.71889
+  lon: 10.3143
+  summary: "Lugal: Revived"
+  timezone: Europe/Berlin
+---
+
+{% render_event %}
+
+
+Nachlese
+--------
+
+Systemd:
+
+- http://0pointer.net/blog/revisiting-how-we-put-together-linux-systems.html
+- https://lkml.org/lkml/2014/8/12/459
+- http://www.heise.de/open/artikel/Kdbus-Neue-Interprozesskommunikation-fuer-den-Linux-Kernel-2089531.html
+
+Oneplus:
+
+- http://oneplus.net/one
+- https://twitter.com/oneplus/status/509427319858294784
+
+Misc:
+
+- http://crashworks.org/if_programming_languages_were_vehicles/ 
+- Pulsjet im Allgäu: https://www.youtube.com/channel/UCoC87YGAejx8ie4uEI5OlzQ
