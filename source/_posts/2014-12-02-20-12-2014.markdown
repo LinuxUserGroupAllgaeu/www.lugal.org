@@ -1,0 +1,25 @@
+---
+layout: post
+title: "20.12.2014 - Jahresabschlussessen"
+date: 2014-12-02 18:58:41 +0100
+comments: true
+categories:
+  - termin
+event:
+  calendar: lugal
+  lat: 47.70020
+  lon: 10.39639
+  startdate: 21.12.2014 18:00
+  enddate: 21.12.2014 22:00
+  timezone: "Europe/Berlin"
+  location: "Zum Tobias, Durach"
+  description: "Bier"
+  summary: "Jahresabschlussessen LUGAL"
+
+---
+
+{% render_event %}
+
+Es ist für 8 Personen reserviert.
+Bitte auf der Mailingliste noch zusagen,
+dass wir gegebenfalls mehr reservieren können

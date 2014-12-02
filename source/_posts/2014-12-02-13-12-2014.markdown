@@ -1,0 +1,20 @@
+---
+layout: post
+title: "13.12.2014"
+date: 2014-12-02 18:28:50 +0100
+comments: true
+categories:
+  - termin
+event:
+  calendar: lugal
+  description: "systemctl reenable lugal"
+  startdate: 13.12.2014 18:00
+  enddate: 13.12.2014 23:00
+  location: "Kempten, Cafe College"
+  lat: 47.71889
+  lon: 10.3143
+  summary: "systemctl reenable lugal"
+  timezone: Europe/Berlin
+---
+
+{% render_event %}
