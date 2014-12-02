@@ -18,3 +18,43 @@ event:
 ---
 
 {% render_event %}
+
+Nachlese
+--------
+
+systemd:
+
+- http://0pointer.net/blog/revisiting-how-we-put-together-linux-systems.html
+- https://lkml.org/lkml/2014/10/29/854 Antwort von tglx: https://lkml.org/lkml/2014/10/30/788
+
+FS:
+
+- https://en.wikipedia.org/wiki/Enterprise_Volume_Management_System
+- https://de.wikipedia.org/wiki/Btrfs
+- https://en.wikipedia.org/wiki/Ceph_(software)
+
+Sync Tools:
+
+- http://www.cis.upenn.edu/~bcpierce/unison/
+- https://en.wikipedia.org/wiki/BitTorrent_Sync
+
+Automotive:
+
+- Toyota: http://www.safetyresearch.net/Library/BarrSlides_FINAL_SCRUBBED.pdf
+- Tesla P85D: https://www.youtube.com/watch?v=FZ6lZJWL_Xk
+- Tesla P85D Probefahrt: https://www.youtube.com/watch?v=WbVEkh4AMqM
+- http://www.golem.de/news/elektrofahrzeuge-deutsche-autohersteller-wollen-tesla-nachahmen-1410-110103.html
+
+Die Welt von morgen:
+
+- Humans Need Not Apply: http://youtu.be/7Pq-S557XQU0
+- http://www.hellointernet.fm/podcast/19
+- http://www.amazon.de/Arbeitsfrei-Eine-Entdeckungsreise-Maschinen-ersetzen/dp/3570501558
+
+Misc:
+
+- http://www.moreflicks.com/
+- http://www.slickvpn.com/
+- Fliesentischmuseum: http://kompetenzcenter.dirknet.net/?page_id=380
+- Iron Sky 2: https://www.youtube.com/watch?v=Wmilvm3KIgw
+- Iron Sky bei Youtube: https://www.youtube.com/watch?v=tHRyrybn_2w
