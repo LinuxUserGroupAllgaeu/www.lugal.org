@@ -1,19 +1,21 @@
 <section>
-<h1>Nächstes Treffen:</h1>
+<h1>Zukünftige Treffen:</h1>
 <ul>
-	{% for post in site.categories['termin'] limit: 1 %}
-    <li>
-    	<a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
-    </li>
+  {% for post in site.categories['termin'] %}
+    {% if post['event']['isfuture'] %}
+      <li>
+        <a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
 <h1>Vergangene Treffen</h1>
 <ul id="recent_posts">
   {% for post in site.categories['termin'] limit: site.recent_posts %}
-  {% unless forloop.first %}
-  <li class="post">
-    <a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
-  </li>
+  {% unless post['event']['isfuture'] %}
+    <li class="post">
+      <a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
+    </li>
   {% endunless %}
   {% endfor %}
 </ul>

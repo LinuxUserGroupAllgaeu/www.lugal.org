@@ -20,6 +20,7 @@ module Jekyll
         end
         event['startdate'] = startdate
         event['enddate'] = enddate
+        event['isfuture'] = startdate > DateTime.now
     end
 
     def generate(site)
