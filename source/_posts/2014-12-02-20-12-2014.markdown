@@ -9,8 +9,8 @@ event:
   calendar: lugal
   lat: 47.70020
   lon: 10.39639
-  startdate: 21.12.2014 18:00
-  enddate: 21.12.2014 22:00
+  startdate: 20.12.2014 18:00
+  enddate: 20.12.2014 22:00
   timezone: "Europe/Berlin"
   location: "Zum Tobias, Durach"
   description: "Bier"
@@ -23,3 +23,27 @@ event:
 Es ist für 8 Personen reserviert.
 Bitte auf der Mailingliste noch zusagen,
 dass wir gegebenfalls mehr reservieren können
+
+Nachlese
+--------
+
+SpaceX:
+
+* https://www.youtube.com/watch?v=eYIK510InXQ
+* https://www.youtube.com/watch?v=uIlu7szab5I
+
+Gen-Technik:
+
+* https://customercare.23andme.com/hc/en-us/articles/202904600-What-is-the-difference-between-genotyping-and-sequencing-
+* https://en.wikipedia.org/wiki/Genotyping
+* https://en.wikipedia.org/wiki/DNA_sequencing
+* http://www.genome.gov/sequencingcosts/
+
+
+
+Divers:
+
+* https://events.linuxfoundation.org/sites/events/files/eeus13_bhaskar.pdf
+* http://lwn.net/Articles/506244/
+* https://de.wikipedia.org/wiki/Entwicklungsdienstleister
+* https://de.wikipedia.org/wiki/Jericho-Trompete

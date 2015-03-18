@@ -18,3 +18,41 @@ event:
 ---
 
 {% render_event %}
+
+Nachlese
+--------
+
+Beschluss:
+
+    Einstimmiger Beschluss: Matteo darf wieder bei der LUGAL am Tisch sitzen!
+
+Rocket und docker:
+
+- https://coreos.com/blog/rocket/
+- http://www.golem.de/news/docker-alternative-rocket-coreos-will-zurueck-zum-standard-container-1412-110905.html
+
+Vagrant:
+
+- http://www.heise.de/developer/artikel/VMs-mit-Vagrant-erstellen-2066800.html
+
+Tauchmedizin:
+
+- https://de.wikipedia.org/wiki/Sauerstofftoxikose
+- https://de.wikipedia.org/wiki/Kreislauftauchger%C3%A4t
+- https://de.wikipedia.org/wiki/Trimix
+
+Technik:
+
+- https://en.wikipedia.org/wiki/Ion_laser#Argon_laser
+- http://www.wired.com/2014/09/armys-new-laser-cannon-blasts-drones-out-of-the-sky-even-in-fog/
+- Remote Controlled Beetle: https://www.youtube.com/watch?v=QmHflOHx8KA
+- Project Pigeon: https://en.wikipedia.org/wiki/Project_Pigeon https://www.youtube.com/watch?v=vIbZB6rNLZ4
+- https://en.wikipedia.org/wiki/Anti-tank_dog
+
+Evolution/DNA:
+
+- https://www.kickstarter.com/projects/antonyevans/glowing-plants-natural-lighting-with-no-electricit
+- http://www.crowdfundinsider.com/2013/08/20031-kickstarter-bans-gmos-in-wake-of-glowing-plant-fiasco/
+- https://de.wikipedia.org/wiki/Panspermie
+- http://www.scilogs.de/die-sankore-schriften/vergleich-zwischen-einer-cd-rom-und-dem-menschlichen-genom/
+- https://www.youtube.com/watch?v=HBag63eVzvo#t=271 "Dieser Planet ist ein Strafplanet"
