@@ -1,0 +1,23 @@
+---
+layout: post
+title: "25.12.2015"
+date: 2015-12-22 19:12:13 +0100
+comments: true
+categories:
+  - termin
+event:
+  calendar: lugal
+  description: "Sommerliches Wintergrillen"
+  startdate: 25.12.2015 17:00
+  enddate: 25.12.2015 23:00
+  location: "Medizinisch-Diagnostisches Labor Kempten"
+  lat: 47.7309445
+  lon: 10.3218456
+  summary: "Fleisch statt Schnee!"
+  timezone: Europe/Berlin
+---
+
+Wer noch nie da war, bitte kurz auf der Mailingliste melden!
+
+{% render_event %}
+
