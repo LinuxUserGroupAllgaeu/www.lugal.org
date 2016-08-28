@@ -88,7 +88,7 @@ module Jekyll
                       <li>Thema: #{event['description']}</li>
                   </div>
                   <div class='calendar-map'>
-                    {% map #{event['lat']} #{event['lon']} 18 \"#{event['location']}\" %}
+                    {% map #{event['lat']} #{event['lon']} 17 \"#{event['location']}\" %}
                   </div>
                 </div>"
         return Liquid::Template.parse(template).render
