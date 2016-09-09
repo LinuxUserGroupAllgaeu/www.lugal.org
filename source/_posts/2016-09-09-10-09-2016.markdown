@@ -1,0 +1,24 @@
+---
+layout: post
+title: "10.09.2016"
+date: 2016-09-09 15:00:00 +0200
+comments: true
+categories:
+  - termin
+event:
+  calendar: lugal
+  description: "Hoigata im Biergarten!"
+  startdate: 10.09.2016 16:00
+  enddate: 10.09.2016 20:00
+  location: "Brauereigaststätte Zum Stift, Kempten"
+  lat: 47.7286403
+  lon: 10.3103929
+  summary: "Hoigata im Biergarten!"
+  timezone: Europe/Berlin
+---
+
+Neue Teilnehmer sind wie immer herzlich willkommen!  
+Gebt evtl. kurz auf der Mailingliste bescheid, damit wir wissen ob mit Verstärkung zu rechnen ist.
+
+{% render_event %}
+
