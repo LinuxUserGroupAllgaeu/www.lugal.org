@@ -1,0 +1,24 @@
+---
+layout: post
+title: "08.10.2016"
+date: 2016-10-01 18:00:00 +0200
+comments: true
+categories:
+  - termin
+event:
+  calendar: lugal
+  description: "SysVinit.conf 2016"
+  startdate: 08.10.2016 18:00
+  enddate: 08.10.2016 22:00
+  location: "Times Cafe Bar, Kempten"
+  lat: 47.7180924
+  lon: 10.3150879
+  summary: "SysVinit.conf 2016"
+  timezone: Europe/Berlin
+---
+
+Neue Teilnehmer sind wie immer herzlich willkommen!  
+Gebt evtl. kurz auf der Mailingliste bescheid, damit wir wissen ob mit Verstärkung zu rechnen ist.
+
+{% render_event %}
+
