@@ -8,7 +8,7 @@ function initmap (mapid,lat,lon,zoomlevel,title,description){
     controls: [ new OpenLayers.Control.PanZoom(), new OpenLayers.Control.Navigation() ],
     theme: null
   });
-  arrayOSM = ["http://tile.stamen.com/terrain/${z}/${x}/${y}.jpg"];
+  arrayOSM = ["https://stamen-tiles.a.ssl.fastly.net/terrain/${z}/${x}/${y}.jpg"];
 
   baseOSM = new OpenLayers.Layer.OSM("MapQuest-OSM Tiles", arrayOSM);
   map.addLayer(baseOSM);
