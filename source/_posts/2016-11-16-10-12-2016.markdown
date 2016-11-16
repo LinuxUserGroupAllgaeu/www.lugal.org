@@ -1,0 +1,26 @@
+---
+layout: post
+title: "10.12.2016"
+date: 2016-11-16 19:00:00 +0100
+comments: true
+categories:
+  - termin
+event:
+  calendar: lugal
+  description: "Weihnachtsfeier 2016"
+  startdate: 10.12.2016 18:00
+  enddate: 10.12.2016 23:00
+  location: "La Pineta, Unterthal 11, 87730 Bad Grönenbach"
+  lat: 47.882652
+  lon: 10.2520099
+  summary: "Die LUGAL feiert Weihnachten!"
+  timezone: Europe/Berlin
+---
+
+Treffpunkt: La Pineta: http://www.la-pineta.com/
+
+Neue Teilnehmer sind wie immer herzlich willkommen!  
+Gebt evtl. kurz auf der Mailingliste bescheid, damit wir wissen ob mit Verstärkung zu rechnen ist.
+
+{% render_event %}
+
